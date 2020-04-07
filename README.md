@@ -14,4 +14,9 @@ It contains the notebook file that uses the Ecommerce dataset to predict the yea
 Dataset used in this project has been uploaded.
 
 ### The LogisticRegression_1 Project:
-It contains the notebook 
+It contains the notebook file that uses the Titanic dataset to predict the assets of survived passengers by using the Passenger Class, Age, No of Siblings and Fare as independent variables. The data has to be cleaned before using and certain columns have to be removed as they have to many missing values.
+Dataset has been uploaded for further refrence.
+
+### The LogisticRegression_2 Project:
+It contains the notebook file that uses the Advertising dataset to predict the that a user clicked on an Advertisement or not by using the Daily Time spent, Age, Are, Income, Daily Internet Usage and Gender as independent variables. 
+Dataset has been uploaded for further refrence.
