@@ -22,4 +22,7 @@ It contains the notebook file that uses the Advertising dataset to predict the t
 Dataset has been uploaded for further refrence.
 
 ### The KNN_1:
-It contains a notebook file thta uses the Classsified Data Dataset and implements K Nearest Neighbour Algorithm.
+It contains a notebook file that uses the Classsified Data Dataset and implements K Nearest Neighbour Algorithm. The error rate for each k value is calculated and compared with the Target class. On further calculations it is noticed that for K=17 gives the best possible classification results.
+
+### The KNN_2:
+It contains a notebook file that uses the KNN_Project Dataset and uses the KNN Algorithm. The data is is trained and tested and error rates for a certain range of k values is calculated and compared with Target Class, on observation, the K=30 value gives the best possible accuracy.
