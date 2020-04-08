@@ -20,3 +20,6 @@ Dataset has been uploaded for further refrence.
 ### The LogisticRegression_2 Project:
 It contains the notebook file that uses the Advertising dataset to predict the that a user clicked on an Advertisement or not by using the Daily Time spent, Age, Are, Income, Daily Internet Usage and Gender as independent variables. 
 Dataset has been uploaded for further refrence.
+
+### The KNN_1:
+It contains a notebook file thta uses the Classsified Data Dataset and implements K Nearest Neighbour Algorithm.
