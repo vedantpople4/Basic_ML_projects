@@ -26,3 +26,11 @@ It contains a notebook file that uses the Classsified Data Dataset and implement
 
 ### The KNN_2:
 It contains a notebook file that uses the KNN_Project Dataset and uses the KNN Algorithm. The data is is trained and tested and error rates for a certain range of k values is calculated and compared with Target Class, on observation, the K=30 value gives the best possible accuracy.
+
+### The RF_1:
+It contains a notebook file that uses the Kyphosis Dataset which has the Age and number columns so that the number of vertebras damaged can be predicted from the given data. It uses 2 classifiers , DecisionTree and Random Forest to compute the predictions.
+Relevant Dataset has also been uploaded for refrence.
+
+### The RF_2:
+It contains a notebook file that uses the Loan Dataset to predict if a user pays the loan amount completely or not. It uses 2 classsifiers the Decision tree and Random Forest algorithm.
+The Dataset has been uploaded to work on.
