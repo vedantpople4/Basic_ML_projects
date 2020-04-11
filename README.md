@@ -34,3 +34,7 @@ Relevant Dataset has also been uploaded for refrence.
 ### The RF_2:
 It contains a notebook file that uses the Loan Dataset to predict if a user pays the loan amount completely or not. It uses 2 classsifiers the Decision tree and Random Forest algorithm.
 The Dataset has been uploaded to work on.
+
+### The SVM_1:
+It contains a notebook file that uses the Breast Cancer Dataset from sklearn and has target values of its own. The Support Vector Classifier is used to meet the respective Target classes, afterwards the Grid Search classifier has been used with parameters like c and Gamma and outputs were predicted. 
+Dataset has been uploded for further refrences.
