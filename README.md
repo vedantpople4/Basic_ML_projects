@@ -37,4 +37,7 @@ The Dataset has been uploaded to work on.
 
 ### The SVM_1:
 It contains a notebook file that uses the Breast Cancer Dataset from sklearn and has target values of its own. The Support Vector Classifier is used to meet the respective Target classes, afterwards the Grid Search classifier has been used with parameters like c and Gamma and outputs were predicted. 
-Dataset has been uploded for further refrences.
+
+
+### The SVM_2:
+It contains a notebook file that uses the Iris Flower Dataset from Seaborn , the flowers have been classified as Sentosa or not on the basis of other characterstics like sepal width, sepal radius, etc. The Support Vector Classifier has been used initially and later the GridSearch has been used by giving parameters of C and Gamma.
