@@ -40,4 +40,4 @@ It contains a notebook file that uses the Breast Cancer Dataset from sklearn and
 
 
 ### The SVM_2:
-It contains a notebook file that uses the Iris Flower Dataset from Seaborn , the flowers have been classified as Sentosa or not on the basis of other characterstics like sepal width, sepal radius, etc. The Support Vector Classifier has been used initially and later the GridSearch has been used by giving parameters of C and Gamma.
+It contains a notebook file that uses the Iris Flower Dataset from Seaborn , the flowers have been classified as Sentosa or not on the basis of other characterstics like sepal width, sepal radius, etc. The Support Vector Classifier has been used initially and later the GridSearch has been used by giving parameters of C and Gamma and output is predicted.
