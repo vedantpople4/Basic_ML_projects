@@ -41,3 +41,10 @@ It contains a notebook file that uses the Breast Cancer Dataset from sklearn and
 
 ### The SVM_2:
 It contains a notebook file that uses the Iris Flower Dataset from Seaborn , the flowers have been classified as Sentosa or not on the basis of other characterstics like sepal width, sepal radius, etc. The Support Vector Classifier has been used initially and later the GridSearch has been used by giving parameters of C and Gamma and output is predicted.
+
+### The KMC_1:
+It contains a notebook file that uses the data made by making blobs from the sklearn library. The initial number of clusters is 4 and on increasing the number of clusters better classification can be observed.
+
+### The KMC_2:
+It contains the notebook file that uses the College_data dataset which classfies whether the private college students or government college students have better jobs, graduation rates and many more factors.
+Dataset has been uploaded for further reference.
