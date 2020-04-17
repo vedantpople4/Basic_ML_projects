@@ -46,5 +46,4 @@ It contains a notebook file that uses the Iris Flower Dataset from Seaborn , the
 It contains a notebook file that uses the data made by making blobs from the sklearn library. The initial number of clusters is 4 and on increasing the number of clusters better classification can be observed.
 
 ### The KMC_2:
-It contains the notebook file that uses the College_data dataset which classfies whether the private college students or government college students have better jobs, graduation rates and many more factors.
-Dataset has been uploaded for further reference.
+It contains the notebook file that uses the College_data dataset which classfies whether the private college students or government college . okay
