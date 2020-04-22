@@ -48,3 +48,8 @@ It contains a notebook file that uses the data made by making blobs from the skl
 ### The KMC_2:
 It contains the notebook file that uses the College_data dataset which classfies whether the private college students or government college students have better jobs, graduation rates and many more factors.
 Dataset has been uploaded for further reference.
+
+### The KNN_1:
+It contains the notebook file that uses the Classified Data dataset which classifies the columns according to the required TARGET class.
+The number of neighbours value is 1, but on analysing the Graph we conclude that n_neighbours=17 gives us the best classification results.
+Dataset has been also uploaded for further reference.
