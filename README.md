@@ -57,3 +57,6 @@ Dataset has been also uploaded for further reference.
 ### The KNN_2:
 It contains the notebook file that uses the dataset which classifies the data to the required target class. Initially the number of neighbours is 1 but in analyzing it can be found that best elbow in the curve is found around 30. Also increaing the n value will cause more clusters and that is not acceptable.
 Dataset is also uploaded.
+
+### The Recommendation project:
+It contains the notebook file that uses the movie_list dataset which contains column like rating,movie_id,title,etc.
