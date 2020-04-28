@@ -66,7 +66,6 @@ Dataset has been uploaded.
 It contains the notebook file that uses the SMSCollection dataset and hence Classifies a particular sms as Spam or not. 
 Dataset has been uploaded for further reference.
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons" data-icon="octicon-star" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
+
 
 
