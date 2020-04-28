@@ -61,3 +61,9 @@ Dataset is also uploaded.
 ### The Recommendation project:
 It contains the notebook file that uses the movie_list dataset which contains column like rating,movie_id,title,etc. For this project we use two movies StarWars and Liar Liar. We find the movies similar to them using the correlation function with other all the movies. Lastly the movies can be computed by highest corelation with other movies.
 Dataset has been uploaded.
+
+### The NLP Project:
+It contains the notebook file that uses the SMSCollection dataset and hence Classifies a particular sms as Spam or not. 
+Dataset has been uploaded for further reference.
+
+
