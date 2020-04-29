@@ -66,6 +66,6 @@ Dataset has been uploaded.
 It contains the notebook file that uses the SMSCollection dataset and hence Classifies a particular sms as Spam or not. 
 Dataset has been uploaded for further reference.
 
-
+## THANKS FOR READING !!!
 
 
