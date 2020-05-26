@@ -1,4 +1,4 @@
-# Basic ML Project 
+## ML Project 
 
 ### The first_project and second_project:
 It contains Exploratery Data Analysis application and libraries such as pandas, numpy, seaborn and Matplotlib have been used. 
